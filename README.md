@@ -44,17 +44,20 @@ Displayed trends and benchmarks across industries and companies.
 
 Tech Stack
 
-Programming Languages
+Programming Languages:
 Python
-Libraries
+
+Libraries:
 Pandas, NumPy (Data manipulation)
 NLTK, SpaCy (Text Preprocessing)
 Gensim (LDA Topic Modeling)
 VADER (Sentiment Analysis)
 Matplotlib, Seaborn (Data Visualization)
-Tools
+
+Tools:
 Jupyter Notebook
 Tableau (for dashboards)
+
 Results
 Key Themes Identified: Carbon emissions reduction, waste management, social equity, corporate governance transparency.
 Sentiment Insights: Positive ESG reporting sentiment seen predominantly in the technology and energy sectors.
