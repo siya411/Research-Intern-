@@ -62,11 +62,14 @@ Tableau (for dashboards)
 Results
 
 Key Themes Identified: Carbon emissions reduction, waste management, social equity, corporate governance transparency.
+
 Sentiment Insights: Positive ESG reporting sentiment seen predominantly in the technology and energy sectors.
+
 Benchmarking: Top-performing companies showcased a significant emphasis on carbon neutrality and social responsibility initiatives.
 
 Future Work
 
 Enhancements: Expanding the dataset to include more companies and sectors.
+
 Additional Analysis: Using more advanced NLP techniques for deeper insights into governance and social aspects.
 
