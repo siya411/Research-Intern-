@@ -1,14 +1,13 @@
 # ESG Analysis of Sustainability Reports from Indian Companies
-Overview
+# Overview
 
 This project focuses on analyzing sustainability reports from top Indian companies to uncover key Environmental, Social, and Governance (ESG) trends. Using advanced text mining and natural language processing (NLP) techniques, the project reveals significant ESG themes, benchmarks corporate performance, and identifies strategic improvement areas.
 
-Project Features
+# Project Features
 
-Data Source:
+# Data Source:
 Sustainability reports from Indian companies (publicly available reports from company websites, government portals, etc.).
-
-Techniques Used:
+# Techniques Used:
 Text Mining
 Natural Language Processing (NLP)
 Sentiment Analysis
